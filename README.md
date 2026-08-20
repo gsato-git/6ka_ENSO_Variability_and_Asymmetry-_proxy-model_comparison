@@ -1,13 +1,27 @@
 # proxy-model-comparison
 
 
+## proxy data 
 ENSO proxy data.xlsx
 
 std_skw_calculation.ipynb
 
 std_skw_calculation_modern.ipynb
 
-# Figures
+
+## iCESM data
+
+R18O_3.ipynb
+
+
+## PMIP4 data
+
+sample_anomaly.ipynb
+
+sample_bandpass.ipynb
+
+
+## Figures
 
 eventplot_3.ipynb
 
