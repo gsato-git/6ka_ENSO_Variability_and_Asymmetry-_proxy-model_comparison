@@ -1,6 +1,6 @@
 # proxy-model-comparison
 
-A comprehensive analysis framework for data-model comparison using published coral/mollusk carbonate &delta;18O, seawater &delta18O from iCESM, and SSTA from iECSM and PMIP4 models. This project focuses on ENSO variability and asymmetry during the mid-Holocene and modern (preindustral) climates.
+A comprehensive analysis framework for data-model comparison using published coral/mollusk carbonate &delta;18O, seawater &delta;18O from iCESM, and SSTA from iECSM and PMIP4 models. This project focuses on ENSO variability and asymmetry during the mid-Holocene and modern (preindustral) climates.
 
 
 ## proxy data 
